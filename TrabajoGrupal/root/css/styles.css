@@ -1,0 +1,110 @@
+/* Stilos titulos  */
+
+.titulo {
+  color: #005677;
+  font-family: "Times New Roman";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 35px;
+  line-height: 84.69%;
+
+  text-align: center;
+  width: 1013px;
+  height: 29.87px;
+  left: 213px;
+  top: 202.13px;
+
+  display: inline-block;
+  margin: 0;
+  padding: 0;
+}
+
+.subTitulos {
+  color: #005677;
+  font-family: "Times New Roman";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 84.69%;
+
+  text-align: left;
+  width: 489.68px;
+  height: 17px;
+  left: 12.45px;
+  top: 524px;
+}
+
+/* ESTILOS DE TODAS LISTAS   */
+
+#formacionA {
+  size: 15px;
+  font-family: "Times New Roman";
+  line-height: 23px;
+}
+
+#formacionL {
+  size: 15px;
+  font-family: "Times New Roman";
+  line-height: 23px;
+}
+
+#datosP {
+  size: 15px;
+  list-style-type: none;
+  font-family: "Times New Roman";
+  line-height: 23px;
+}
+
+/* Estilos de las etiquetas Li de los datos personales */
+.liDP {
+  font-style: italic;
+}
+
+/* ESTILOS DE LAS ETIQUESTAS NAV QUE CONTIENEN TITULOS, SUBTITULOS Y EL FOOTER */
+
+.navTitulos {
+  background-color: #c4c4c4;
+}
+
+.navFooter {
+  background-color: #005677;
+}
+/* nav superior en donde está la imagen de Batman*/
+#navBatmanSuperior {
+  background-color: #e6e6e6;
+  display: flex;
+  justify-content: center;
+  line-height: 0px;
+}
+
+#datosPersonales {
+  margin-top: 84px;
+}
+/* ESTILOS LETRA EN EL FOOTER */
+
+#footerText {
+  color: #ffffff;
+  font-family: "Times New Roman";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 84.69%;
+  text-align: center;
+}
+
+/* ESTILOS TODAS LAS IMAGENES */
+
+#headerIMG {
+  width: 100px;
+  height: 146.37px;
+  left: 670px;
+  top: 20.91px;
+  /*  display: inline-block;
+  margin: 0;
+  padding: 0; */
+}
+
+#footerIMG {
+  padding-left: 26px;
+  padding-right: 26px;
+}

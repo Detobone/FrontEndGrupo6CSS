@@ -1,0 +1,20 @@
+/* BIENVENIDOS TRANTENME CON CARIÑO Y PRIORIZEN LA ORGANIZACION */
+
+img {
+  width: 100px;
+  height: 100px;
+}
+
+/* Cambiar la tiporgrafia del color al h1,h2 y p */
+
+.textos {
+  color: rgb(104, 202, 170);
+}
+
+/* Estilo barra de navegacion del header */
+
+#navHearder {
+  list-style-type: none;
+  background-color: rgb(245, 245, 220);
+  opacity: 0.5;
+}
